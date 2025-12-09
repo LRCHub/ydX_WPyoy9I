@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "走れ!うさかめ高校テニス部!!",
+  "base_artist": "うさかめ高校テニス部(中島由貴(田中きなこCV)・小出ひかる(佐藤くるみCV)・新井田いづみ(鈴木あやこCV)・谷尻まりあ(西新井大師西CV))",
+  "createdAt": "2025-12-09T09:35:39.926415Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "走れ!うさかめ高校テニス部!!",
+      "artist": "うさかめ高校テニス部",
+      "has_synced": false,
+      "path": "select/pl_01_走れ!うさかめ高校テニス部!!_うさかめ高校テニス部.txt"
+    }
+  ]
+}
